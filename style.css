@@ -1,5 +1,7 @@
 *{
     background-image: url('assets/sam-wermut-FiUuNWxnb3k-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-color: #cccc;
 }
 
 .card{

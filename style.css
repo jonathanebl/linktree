@@ -1,3 +1,8 @@
+*{
+	background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
+
+}
+
 @keyframes transitionAnimation {
     0% {
         opacity: 0;

@@ -25,10 +25,11 @@ body{
 }
 
 card-content{
+	color: aliceblue;
 	display: flex;
 	flex-direction: column;
 	padding: 40px;
-	color: rgba(255, 255, 255, 0.5);
+	background: rgba(255, 255, 255, 0.1);
 	font-weight: 700;
 	font-size: 22px;
 }

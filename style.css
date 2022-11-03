@@ -1,5 +1,5 @@
 *{
-	background: radial-gradient(ellipse at bottom, var(#223344) 0%, var( #090a0f) 100%);
+	background-image: radial-gradient(ellipse at bottom, var(#223344) 0%, var( #090a0f) 100%);
 
 }
 
